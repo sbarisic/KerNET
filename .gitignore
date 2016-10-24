@@ -21,6 +21,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+ExploitCapcom/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -250,3 +251,4 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+Capcom.sys
